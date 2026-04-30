@@ -1,4 +1,4 @@
 # Python-Learn
 
-- Using 'Automate the Boring Stuff'
-- Projects will go here
+- Python stuff goes here
+- Python-for-Defenders
